@@ -1,0 +1,6 @@
+streamlit==1.45.1
+pandas==2.2.3
+plotly==6.2.0
+wordcloud==1.9.4
+bs4==0.0.2
+requests==2.32.3

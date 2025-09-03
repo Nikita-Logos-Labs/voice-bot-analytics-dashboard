@@ -1,10 +1,7 @@
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 from wordcloud import WordCloud
-from datetime import timedelta
 import requests
 from bs4 import BeautifulSoup
 
